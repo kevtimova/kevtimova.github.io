@@ -2,9 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Katrina Drozdov&#39;s Website</title>
+<<<<<<< HEAD
     <link>https://katrina.github.io/series/</link>
     <description>Recent content in Series on Katrina Drozdov&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://katrina.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <link>https://kevtimova.github.io/series/</link>
+    <description>Recent content in Series on Katrina Drozdov&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://kevtimova.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> a195610 (Build the website.)
   </channel>
 </rss>

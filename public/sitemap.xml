@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+<<<<<<< HEAD
     <loc>https://katrina.github.io/</loc>
     <lastmod>2025-03-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -21,5 +22,26 @@
     <loc>https://katrina.github.io/series/</loc>
   </url><url>
     <loc>https://katrina.github.io/tags/</loc>
+=======
+    <loc>https://kevtimova.github.io/</loc>
+    <lastmod>2025-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kevtimova.github.io/news/</loc>
+    <lastmod>2025-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kevtimova.github.io/publications/papers/</loc>
+  </url><url>
+    <loc>https://kevtimova.github.io/about/</loc>
+  </url><url>
+    <loc>https://kevtimova.github.io/categories/</loc>
+  </url><url>
+    <loc>https://kevtimova.github.io/contact/</loc>
+  </url><url>
+    <loc>https://kevtimova.github.io/publications/</loc>
+  </url><url>
+    <loc>https://kevtimova.github.io/series/</loc>
+  </url><url>
+    <loc>https://kevtimova.github.io/tags/</loc>
+>>>>>>> a195610 (Build the website.)
   </url>
 </urlset>
