@@ -1,0 +1,87 @@
+baseURL = "https://katrina.github.io/"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "Katrina Drozdov's Website"
+
+# theme as hugo module
+#theme = "github.com/lxndrblz/anatole"
+# theme as git submodule
+theme = "anatole"
+
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+# Syntax highlighting
+pygmentsUseClasses = true   
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+# Localized dates requires Hugo version 0.87.0
+localizedDates = false
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+        unsafe=false
+
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
+
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = true
+[[related.indices]]
+  name = 'keywords'
+  weight = 100
+[[related.indices]]
+  name = 'tags'
+  weight = 80
+
+[services]
+# Enable Disqus.Disqus.Shortname
+  [services.disqus]
+    #shortname = 'your-disqus-shortname'
+# Google Analytics
+  [services.googleAnalytics]
+    #ID = 'G-MEASUREMENT_ID'
+
+
+#############################
+[params]
+  author = "Katrina Drozdov"
+  title = "Katrina Drozdov"
+  maidenName = "(Evtimova)"
+  description = "AI Researcher"
+  profilePicture = "images/profile.jpg"
+  socialIcons = [
+    { title = "Email", url="/#contact", icon="fas fa-envelope"},
+    { title = "Google Scholar", url = "https://scholar.google.com/citations?user=d4xi2HIAAAAJ&hl=en", icon = "ai ai-google-scholar" },
+    { title = "Twitter", url = "https://twitter.com/stochasticdoggo", icon = "fab fa-twitter" },
+    { title = "LinkedIn", url = "https://www.linkedin.com/in/katrina-drozdov/", icon = "fab fa-linkedin" },
+    { title = "Resume", url = "/Katrina_Drozdov_resume.pdf", icon = "fas fa-file-alt" }
+  ]
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "#about"
+    weight = 1
+
+  [[menu.main]]
+    name = "Publications"
+    url = "#publications"
+    weight = 2
+
+  [[menu.main]]
+    name = "News"
+    url = "#news"
+    weight = 3
+
+  [[menu.main]]
+    name = "Contact"
+    url = "#contact"
+    weight = 4

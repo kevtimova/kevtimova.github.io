@@ -1,0 +1,61 @@
+{{ define "main" }}
+  <div class="post {{ if not .Site.Params.doNotLoadAnimations }}animated fadeInDown{{ end }}">
+    <div class="post__content">
+      {{ .Content }} <!-- This will render content from `content/_index.md` -->
+    </div>
+  </div>
+
+  <!-- About Section -->
+  <section id="about" class="post animated fadeInDown">
+    <div class="post__content">
+      <h1>About</h1>
+      {{ with .Site.GetPage "page" "about" }}{{ .Content }}{{ end }}
+    </div>
+  </section>
+
+  <!-- Publications Section -->
+  <section id="publications" class="post animated fadeInDown">
+    <div class="post__content">
+      <h1>Selected Publications</h1>
+      {{ range where .Site.RegularPages "Section" "publications" }}
+        <h3>{{ .Title }}</h3>
+        <p>{{ .Content | safeHTML }}</p>
+      {{ end }}
+    </div>
+  </section>
+
+  <!-- News Section -->
+  <section id="news" class="post animated fadeInDown">
+    <div class="post__content"  style="line-height: 2; margin-bottom: 10px;">
+      <h1>News</h1>
+      {{ with .Site.GetPage "page" "news" }}
+        <div class="visible-news">
+          {{ $newsItems := findRE "<li>(.*?)</li>" .Content -1 }}
+          {{ range first 3 $newsItems }}
+            {{ . | safeHTML }}
+          {{ end }}
+        </div>
+        
+        {{ if gt (len $newsItems) 3 }}
+          <details class="news-more">
+            <summary><strong>More news...</strong></summary>
+            <div class="hidden-news">
+              {{ range after 3 $newsItems }}
+                {{ . | safeHTML }}
+              {{ end }}
+            </div>
+          </details>
+        {{ end }}
+      {{ end }}
+    </div>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact" class="post animated fadeInDown">
+    <div class="post__content">
+      <h1>Contact</h1>
+      {{ with .Site.GetPage "page" "contact" }}{{ .Content }}{{ end }}
+    </div>
+  </section>
+
+{{ end }}

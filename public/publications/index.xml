@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Katrina Drozdov&#39;s Website</title>
+    <link>http://localhost:1313/publications/</link>
+    <description>Recent content in Publications on Katrina Drozdov&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/publications/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publications/papers/</guid>
+      
+        <description>&lt;p&gt;&lt;strong&gt;Drozdov, K.&lt;/strong&gt;, Shwartz-Ziv, R. and LeCun, Y. &lt;em&gt;Video Representation Learning with Joint-Embedding Predictive Architectures&lt;/em&gt;. Preprint, 2024.
+&lt;a href=&#34;https://arxiv.org/pdf/2412.10925.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

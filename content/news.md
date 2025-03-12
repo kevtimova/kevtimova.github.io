@@ -1,0 +1,28 @@
+---
+title: News
+date: 2025-03-10
+---
+
+- **December 2024:** Check out my [new preprint](https://arxiv.org/abs/2412.10925) on video representation learning with joint-embedding predictive architectures!
+- **October 2024:** My research on emergent communication with adaptive compute at inference time was featured in the CDS Blog: ["From Academia to Industry: How a 2018 Paper Foreshadowed OpenAI’s Latest Innovation"](https://nyudatascience.medium.com/from-academia-to-industry-how-a-2018-paper-foreshadowed-openais-latest-innovation-be9b7b959845).
+- **September 2024:** I've been invited to serve as a reviewer for the prestigious [TMLR](https://jmlr.org/tmlr/) journal.
+- **July 2024:** Excited to share that I defended my thesis titled "Representation Learning with Regularized Energy-Based Models"!
+- **February 2024:** Serving as a reviewer at ICML 2024.
+- **November 2023:** Serving as a reviewer at AISTATS 2024.
+- **October 2023:** Serving as a reviewer at ICLR 2024.
+- **March 2023:** Serving as a reviewer at ICML 2023.
+- **January 2023:** Gave an invited talk on self-supervised learning at Prof. Leif Weatherby's course *"Theory of the Digital"*.
+- **November 2022:** I'll be at NeurIPS 2022. Would love to chat about self-supervised learning, regularization, latent variable models, etc. If you're also around, do reach out!
+- **August 2022:** ["Sparse Coding with Multi-Layer Decoders using Variance Regularization"](https://openreview.net/forum?id=4GuIi1jJ74) is now published at TMLR!
+- **April 2022:** Selected as one of the [Highlighted Reviewers](https://iclr.cc/Conferences/2022/Reviewers) at ICLR 2022.
+- **April 2022:** Serving as a reviewer at ICML 2022.
+- **October 2021:** Serving as a reviewer at ICLR 2022.
+- **September 2021:** Excited to be an organizer of the [2022 NYU AI School](https://nyu-mll.github.io/nyu-ai-school-2022/).
+- **July 2021:** Serving as a reviewer at NeurIPS 2021.
+- **March 2021:** Serving as a reviewer at ICML 2021.
+- **February 2021:** Serving as a reviewer at the Energy-based Models workshop at ICLR 2021.
+- **April 2020:** Happy to share that I passed my Depth Qualification Exam on the topic of *"Energy-Based Learning & Regularized Latent Variable Models"* with committee members Joan Bruna, Kyunghyun Cho, and Yann LeCun.
+- **January 2020:** Gave a talk at the [CILVR seminar](https://cims.nyu.edu/ai/seminars/cilvr-seminar-series/) titled *"Self-supervised Learning & Sparse Overcomplete Representations of Visual Data"*.
+- **January 2020:** Looking forward to being a teaching assistant for *Introduction to Machine Learning* at Courant over the spring.
+- **February 2019:** Excited to share that I'll be interning at [FAIR](https://research.fb.com/category/facebook-ai-research/) this summer.
+- **January 2019:** Happy to be a section leader for NYU's Deep Learning class this spring.
