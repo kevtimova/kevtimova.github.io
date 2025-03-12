@@ -5,7 +5,7 @@ title: ""
 
 **Representation Learning With Regularized Energy-Based Models**. **Drozdov, K.** Thesis, 2024. [HTML](https://www.proquest.com/docview/3121538548)
 
-**Variance-Covariance Regularization Improves Representation Learning.** Zhu, J., **Evtimova, K.**, Chen, Y., Shwartz-Ziv, R. and LeCun, Y. Preprint, 2024. [PDF](https://arxiv.org/pdf/2306.13292.pdf)
+**Variance-Covariance Regularization Improves Representation Learning.** Zhu, J., **Evtimova, K.**, Chen, Y., Shwartz-Ziv, R. and LeCun, Y. Preprint, 2023. [PDF](https://arxiv.org/pdf/2306.13292.pdf)
 
 **Sparse Coding with Multi-Layer Decoders using Variance Regularization**. **Evtimova, K.** and LeCun, Y. Published in Transactions on Machine Learning Research, Aug 2022. [PDF](https://openreview.net/forum?id=4GuIi1jJ74) [CODE](https://github.com/kevtimova/deep-sparse)
 
