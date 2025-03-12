@@ -2,4 +2,6 @@
 title: "Contact"
 ---
 
-📧 kve216 at nyu.edu
+✉️ kve216 at nyu.edu
+
+
