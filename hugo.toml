@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-baseURL = "https://katrina.github.io/"
-=======
 baseURL = "https://kevtimova.github.io/"
->>>>>>> a195610 (Build the website.)
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Katrina Drozdov's Website"
