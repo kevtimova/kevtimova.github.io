@@ -60,7 +60,7 @@
       
       <guid>https://kevtimova.github.io/about/</guid>
       
-        <description>&lt;p&gt;I have a PhD from NYU&amp;rsquo;s Center for Data Science, where I was advised by Yann LeCun. My research focuses on self-supervised learning methods for extracting meaningful representations from images and videos. In particular, I develop regularization techniques that prevent  collapse during model pre-training, ensuring that the learned representations remain informative and useful.&lt;/p&gt;</description>
+        <description>&lt;p&gt;I earned my PhD from NYU&amp;rsquo;s Center for Data Science, where I was advised by Yann LeCun. My research focuses on self-supervised learning methods for extracting meaningful data representations. In particular, I develop regularization techniques that prevent collapse during model pre-training, ensuring that the learned representations remain informative and useful.&lt;/p&gt;</description>
       
     </item>
     
