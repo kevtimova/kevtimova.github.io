@@ -65,6 +65,7 @@ localizedDates = false
     { title = "LinkedIn", url = "https://www.linkedin.com/in/katrina-drozdov/", icon = "fab fa-linkedin" },
     { title = "Resume", url = "/Katrina_Drozdov_resume.pdf", icon = "fas fa-file-alt" }
   ]
+  googleAnalytics = "G-5WXBKGXQT7"
 
 [menu]
   [[menu.main]]
