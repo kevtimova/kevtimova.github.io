@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Katrina Drozdov&#39;s Website</title>
+    <link>https://kevtimova.github.io/posts/</link>
+    <description>Recent content in Posts on Katrina Drozdov&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://kevtimova.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>9 Lessons I Learned while Doing RL Post-Training for LLMs</title>
+      <link>https://kevtimova.github.io/posts/grpo/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://kevtimova.github.io/posts/grpo/</guid>
+      
+        <description>&lt;p&gt;I recently had the chance to experiment with post-training techniques for large language models, a space that has become central to making LLMs useful and controllable in real-world applications. I used &lt;a href=&#34;https://arxiv.org/abs/2402.03300&#34;&gt;Group Relative Policy Optimization (GRPO)&lt;/a&gt; from the open-source &lt;a href=&#34;https://github.com/huggingface/open-r1&#34;&gt;&lt;code&gt;open-r1&lt;/code&gt;&lt;/a&gt; repository, fine-tuning &lt;a href=&#34;https://huggingface.co/Qwen/Qwen2.5-7B-Instruct&#34;&gt;Qwen2.5-7B-Instruct&lt;/a&gt; on the coding subset of the &lt;a href=&#34;https://huggingface.co/datasets/open-r1/Mixture-of-Thoughts&#34;&gt;Mixture-of-Thoughts&lt;/a&gt; dataset.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

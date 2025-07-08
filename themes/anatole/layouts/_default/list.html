@@ -6,6 +6,15 @@
       animated fadeInDown
     {{ end }}"
   >
+    <h1>{{ .Title }}</h1>
+    <!-- Welcome message from _index.md -->
+    {{ if .Content }}
+    <div class="archive__intro">
+      {{ .Content }}
+    </div>
+    {{ end }}
+
+    <!-- List of posts -->
     {{ range .Data.Pages.GroupByDate "2006" }}
       <div class="archive__heading">{{ .Key }}</div>
       {{ range .Pages }}
@@ -34,6 +43,7 @@
               {{ end }}
             </div>
           </li>
+          
         </ul>
       {{ end }}
 

@@ -1,8 +1,8 @@
 ---
 title: News
-date: 2025-03-10
 ---
-
+- **July 2025:** Check out my [blog post](/posts/grpo) on post-training LLMs!
+- **June 2025:** Serving as a reviewer at NeurIPS 2025.
 - **December 2024:** Check out my [new preprint](https://arxiv.org/abs/2412.10925) on video representation learning with joint-embedding predictive architectures!
 - **October 2024:** My research on emergent communication with adaptive compute at inference time was featured in the CDS Blog: ["From Academia to Industry: How a 2018 Paper Foreshadowed OpenAI’s Latest Innovation"](https://nyudatascience.medium.com/from-academia-to-industry-how-a-2018-paper-foreshadowed-openais-latest-innovation-be9b7b959845).
 - **September 2024:** I've been invited to serve as a reviewer for the prestigious [TMLR](https://jmlr.org/tmlr/) journal.

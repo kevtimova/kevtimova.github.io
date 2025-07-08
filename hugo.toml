@@ -70,20 +70,25 @@ localizedDates = false
 [menu]
   [[menu.main]]
     name = "About"
-    url = "#about"
+    url = "/about/"
     weight = 1
 
   [[menu.main]]
     name = "Publications"
-    url = "#publications"
+    url = "/papers/"
     weight = 2
 
   [[menu.main]]
     name = "News"
-    url = "#news"
+    url = "/news/"
     weight = 3
 
   [[menu.main]]
-    name = "Contact"
-    url = "#contact"
+    name = "Posts"
+    url = "/posts/"
     weight = 4
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 5

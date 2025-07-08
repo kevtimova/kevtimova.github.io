@@ -1,6 +1,7 @@
 ---
-title: ""
+title: "Publications"
 ---
+
 **Video Representation Learning with Joint-Embedding Predictive Architectures**. **Drozdov, K.**, Shwartz-Ziv, R. and LeCun, Y. Preprint, 2024. [PDF](https://arxiv.org/pdf/2412.10925.pdf)
 
 **Representation Learning With Regularized Energy-Based Models**. **Drozdov, K.** Thesis, 2024. [HTML](https://www.proquest.com/docview/3121538548)
