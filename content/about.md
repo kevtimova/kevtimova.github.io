@@ -2,6 +2,6 @@
 title: "About Me"
 ---
 
-I earned my PhD from NYU's Center for Data Science, where I was advised by Yann LeCun. My research focuses on self-supervised learning methods for extracting meaningful data representations. In particular, I develop regularization techniques that prevent collapse during model training, ensuring that the learned representations remain informative and useful.
+I earned my PhD from NYU's Center for Data Science, where I was advised by Yann LeCun. My dissertation focused on self-supervised learning methods for extracting meaningful data representations. In particular, I developed regularization techniques that prevent representation collapse during training, ensuring that learned representations remain informative and useful.
 
-Beyond my doctoral work, I am excited about advancing modern AI, including large language models and multi-modal generative systems. Leveraging my research experience, I aim to evaluate and build more robust and scalable AI systems that generalize effectively across diverse tasks.
+I am now focused on applying this foundation to modern AI systems in industry. I'm particularly interested in large language models and multimodal generative systems, and in the practical challenges of making these models robust, scalable, and reliable in real-world settings. My goal is to contribute to the development and deployment of AI systems that generalize well beyond benchmarks and deliver practical value.
