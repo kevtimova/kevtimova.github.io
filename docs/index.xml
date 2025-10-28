@@ -14,7 +14,7 @@
       
       <guid>https://kevtimova.github.io/posts/grpo/</guid>
       
-        <description>&lt;p&gt;I recently had the chance to experiment with post-training techniques for large language models, a space that has become central to making LLMs useful and controllable in real-world applications. I used &lt;a href=&#34;https://arxiv.org/abs/2402.03300&#34;&gt;Group Relative Policy Optimization (GRPO)&lt;/a&gt; from the open-source &lt;a href=&#34;https://github.com/huggingface/open-r1&#34;&gt;&lt;code&gt;open-r1&lt;/code&gt;&lt;/a&gt; repository, fine-tuning &lt;a href=&#34;https://huggingface.co/Qwen/Qwen2.5-7B-Instruct&#34;&gt;Qwen2.5-7B-Instruct&lt;/a&gt; on the coding subset of the &lt;a href=&#34;https://huggingface.co/datasets/open-r1/Mixture-of-Thoughts&#34;&gt;Mixture-of-Thoughts&lt;/a&gt; dataset.&lt;/p&gt;</description>
+        <description>&lt;p&gt;I recently had the chance to experiment with post-training techniques for large language models, a space that has become central to making LLMs useful and controllable in real-world applications. I used &lt;a href=&#34;https://arxiv.org/abs/2402.03300&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Group Relative Policy Optimization (GRPO)&lt;/a&gt; from the open-source &lt;a href=&#34;https://github.com/huggingface/open-r1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;open-r1&lt;/code&gt;&lt;/a&gt; repository, fine-tuning &lt;a href=&#34;https://huggingface.co/Qwen/Qwen2.5-7B-Instruct&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Qwen2.5-7B-Instruct&lt;/a&gt; on the coding subset of the &lt;a href=&#34;https://huggingface.co/datasets/open-r1/Mixture-of-Thoughts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mixture-of-Thoughts&lt;/a&gt; dataset.&lt;/p&gt;</description>
       
     </item>
     
@@ -25,7 +25,7 @@
       
       <guid>https://kevtimova.github.io/about/</guid>
       
-        <description>&lt;p&gt;I earned my PhD from NYU&amp;rsquo;s Center for Data Science, where I was advised by Yann LeCun. My research focuses on self-supervised learning methods for extracting meaningful data representations. In particular, I develop regularization techniques that prevent collapse during model training, ensuring that the learned representations remain informative and useful.&lt;/p&gt;</description>
+        <description>&lt;p&gt;I earned my PhD from NYU&amp;rsquo;s Center for Data Science, where I was advised by Yann LeCun. My dissertation focused on self-supervised learning methods for extracting meaningful data representations. In particular, I developed regularization techniques that prevent representation collapse during training, ensuring that learned representations remain informative and useful.&lt;/p&gt;</description>
       
     </item>
     
@@ -50,9 +50,9 @@
         <description>&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;July 2025:&lt;/strong&gt; Check out my &lt;a href=&#34;https://kevtimova.github.io/posts/grpo&#34;&gt;blog post&lt;/a&gt; on post-training LLMs!&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;June 2025:&lt;/strong&gt; Serving as a reviewer at NeurIPS 2025.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;December 2024:&lt;/strong&gt; Check out my &lt;a href=&#34;https://arxiv.org/abs/2412.10925&#34;&gt;new preprint&lt;/a&gt; on video representation learning with joint-embedding predictive architectures!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;October 2024:&lt;/strong&gt; My research on emergent communication with adaptive compute at inference time was featured in the CDS Blog: &lt;a href=&#34;https://nyudatascience.medium.com/from-academia-to-industry-how-a-2018-paper-foreshadowed-openais-latest-innovation-be9b7b959845&#34;&gt;&amp;ldquo;From Academia to Industry: How a 2018 Paper Foreshadowed OpenAI’s Latest Innovation&amp;rdquo;&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;September 2024:&lt;/strong&gt; I&amp;rsquo;ve been invited to serve as a reviewer for the prestigious &lt;a href=&#34;https://jmlr.org/tmlr/&#34;&gt;TMLR&lt;/a&gt; journal.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;December 2024:&lt;/strong&gt; Check out my &lt;a href=&#34;https://arxiv.org/abs/2412.10925&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;new preprint&lt;/a&gt; on video representation learning with joint-embedding predictive architectures!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;October 2024:&lt;/strong&gt; My research on emergent communication with adaptive compute at inference time was featured in the CDS Blog: &lt;a href=&#34;https://nyudatascience.medium.com/from-academia-to-industry-how-a-2018-paper-foreshadowed-openais-latest-innovation-be9b7b959845&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;From Academia to Industry: How a 2018 Paper Foreshadowed OpenAI’s Latest Innovation&amp;rdquo;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;September 2024:&lt;/strong&gt; I&amp;rsquo;ve been invited to serve as a reviewer for the prestigious &lt;a href=&#34;https://jmlr.org/tmlr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TMLR&lt;/a&gt; journal.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;July 2024:&lt;/strong&gt; Excited to share that I defended my thesis titled &amp;ldquo;Representation Learning with Regularized Energy-Based Models&amp;rdquo;!&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;February 2024:&lt;/strong&gt; Serving as a reviewer at ICML 2024.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;November 2023:&lt;/strong&gt; Serving as a reviewer at AISTATS 2024.&lt;/li&gt;
@@ -60,18 +60,18 @@
 &lt;li&gt;&lt;strong&gt;March 2023:&lt;/strong&gt; Serving as a reviewer at ICML 2023.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;January 2023:&lt;/strong&gt; Gave an invited talk on self-supervised learning at Prof. Leif Weatherby&amp;rsquo;s course &lt;em&gt;&amp;ldquo;Theory of the Digital&amp;rdquo;&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;November 2022:&lt;/strong&gt; I&amp;rsquo;ll be at NeurIPS 2022. Would love to chat about self-supervised learning, regularization, latent variable models, etc. If you&amp;rsquo;re also around, do reach out!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;August 2022:&lt;/strong&gt; &lt;a href=&#34;https://openreview.net/forum?id=4GuIi1jJ74&#34;&gt;&amp;ldquo;Sparse Coding with Multi-Layer Decoders using Variance Regularization&amp;rdquo;&lt;/a&gt; is now published at TMLR!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;April 2022:&lt;/strong&gt; Selected as one of the &lt;a href=&#34;https://iclr.cc/Conferences/2022/Reviewers&#34;&gt;Highlighted Reviewers&lt;/a&gt; at ICLR 2022.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;August 2022:&lt;/strong&gt; &lt;a href=&#34;https://openreview.net/forum?id=4GuIi1jJ74&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Sparse Coding with Multi-Layer Decoders using Variance Regularization&amp;rdquo;&lt;/a&gt; is now published at TMLR!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;April 2022:&lt;/strong&gt; Selected as one of the &lt;a href=&#34;https://iclr.cc/Conferences/2022/Reviewers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Highlighted Reviewers&lt;/a&gt; at ICLR 2022.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;April 2022:&lt;/strong&gt; Serving as a reviewer at ICML 2022.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;October 2021:&lt;/strong&gt; Serving as a reviewer at ICLR 2022.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;September 2021:&lt;/strong&gt; Excited to be an organizer of the &lt;a href=&#34;https://nyu-mll.github.io/nyu-ai-school-2022/&#34;&gt;2022 NYU AI School&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;September 2021:&lt;/strong&gt; Excited to be an organizer of the &lt;a href=&#34;https://nyu-mll.github.io/nyu-ai-school-2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2022 NYU AI School&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;July 2021:&lt;/strong&gt; Serving as a reviewer at NeurIPS 2021.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;March 2021:&lt;/strong&gt; Serving as a reviewer at ICML 2021.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;February 2021:&lt;/strong&gt; Serving as a reviewer at the Energy-based Models workshop at ICLR 2021.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;April 2020:&lt;/strong&gt; Happy to share that I passed my Depth Qualification Exam on the topic of &lt;em&gt;&amp;ldquo;Energy-Based Learning &amp;amp; Regularized Latent Variable Models&amp;rdquo;&lt;/em&gt; with committee members Joan Bruna, Kyunghyun Cho, and Yann LeCun.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;January 2020:&lt;/strong&gt; Gave a talk at the &lt;a href=&#34;https://cims.nyu.edu/ai/seminars/cilvr-seminar-series/&#34;&gt;CILVR seminar&lt;/a&gt; titled &lt;em&gt;&amp;ldquo;Self-supervised Learning &amp;amp; Sparse Overcomplete Representations of Visual Data&amp;rdquo;&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;January 2020:&lt;/strong&gt; Gave a talk at the &lt;a href=&#34;https://cims.nyu.edu/ai/seminars/cilvr-seminar-series/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CILVR seminar&lt;/a&gt; titled &lt;em&gt;&amp;ldquo;Self-supervised Learning &amp;amp; Sparse Overcomplete Representations of Visual Data&amp;rdquo;&lt;/em&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;January 2020:&lt;/strong&gt; Looking forward to being a teaching assistant for &lt;em&gt;Introduction to Machine Learning&lt;/em&gt; at Courant over the spring.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;February 2019:&lt;/strong&gt; Excited to share that I&amp;rsquo;ll be interning at &lt;a href=&#34;https://research.fb.com/category/facebook-ai-research/&#34;&gt;FAIR&lt;/a&gt; this summer.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;February 2019:&lt;/strong&gt; Excited to share that I&amp;rsquo;ll be interning at &lt;a href=&#34;https://research.fb.com/category/facebook-ai-research/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FAIR&lt;/a&gt; this summer.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;January 2019:&lt;/strong&gt; Happy to be a section leader for NYU&amp;rsquo;s Deep Learning class this spring.&lt;/li&gt;
 &lt;/ul&gt;</description>
       
@@ -84,7 +84,7 @@
       
       <guid>https://kevtimova.github.io/papers/</guid>
       
-        <description>&lt;p&gt;&lt;strong&gt;Video Representation Learning with Joint-Embedding Predictive Architectures&lt;/strong&gt;. &lt;strong&gt;Drozdov, K.&lt;/strong&gt;, Shwartz-Ziv, R. and LeCun, Y. Preprint, 2024. &lt;a href=&#34;https://arxiv.org/pdf/2412.10925.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;&lt;strong&gt;Video Representation Learning with Joint-Embedding Predictive Architectures&lt;/strong&gt;. &lt;strong&gt;Drozdov, K.&lt;/strong&gt;, Shwartz-Ziv, R. and LeCun, Y. Preprint, 2024. &lt;a href=&#34;https://arxiv.org/pdf/2412.10925.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
       
     </item>
     
